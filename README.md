@@ -1,6 +1,6 @@
 # zksync-era-withdrawal-finalizer
 
-A Withdrawal Finalizer in Rust.
+A Withdrawal Finalizer in Rust. 
 
 ## Purpose
 
